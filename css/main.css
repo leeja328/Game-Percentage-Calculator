@@ -1,0 +1,78 @@
+/* Reset default browser styles */
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+}
+
+#testDataForm {
+
+}
+
+
+body {
+    background-color: purple;
+}
+
+
+.header {
+    
+}
+
+
+
+.firstchunk{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.purp {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    border-radius: 80px;
+    width: 20%;
+}
+
+#dashboard {
+}
+
+#purp2 {
+    width: 35%;
+}
+
+#purp3 {
+    width: 35%;
+}
+
+
+.calc {
+    color: white;
+    
+}
+
+#summary {
+    color: white;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    padding-top: 15px;
+}
+
+.container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#results {
+    padding: 15px;
+}
+
+.summary {
+    display: flex;
+    justify-content: center;
+}
